@@ -8,6 +8,13 @@ Enter description here
 
 ## Key Features
 
+- **Contact Logging:** Easily log and manage all your networking contacts in one place.
+- **Connection Level Tracking:** Identify the level of connection with each contact (e.g., LinkedIn, Messaging, Mutual, Low Interest) to prioritize your networking efforts.
+- **Follow-Up Scheduling:** Schedule the next follow-up date for each contact and stay on top of your networking goals.
+- **Notes Section:** Take detailed notes for each contact to remember key details and conversation points.
+- **Connection Type Identification:** Categorize contacts by type (e.g., Peer, Influencer, Dream Job) to tailor your networking strategy.
+
+
 
 
 ## Why Use This App?
